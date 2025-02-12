@@ -11,14 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahan-harshajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahan-harshajith" height="30" width="40" /></a>
-<a href="https://twitter.com/sahanharshajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahanharshajith" height="30" width="40" /></a>
-<a href="https://fb.com/sahan harshajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahan harshajith" height="30" width="40" /></a>
-<a href="https://instagram.com/sahan_harshajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahan_harshajith" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahan_harshajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahan_harshajith" height="30" width="40" /></a>
-<a href="https://discord.gg/sahan_harshajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sahan_harshajith" height="30" width="40" /></a>
-<a href="https://medium.com/sahanharshajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sahanharshajith" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/vishmi-bulathsinhala-476b4826b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishmibulathsinhala" height="30" width="40" /></a>
+<a href="https://instagram.com/sahan_harshajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishmibulathsinhala" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/vishmibulathsin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishmibulathsinhala" height="30" width="40" /></a>
 
 ---
 
