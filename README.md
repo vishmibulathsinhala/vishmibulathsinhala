@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahan Harshajith</h1>
+<h1 align="center">Hi 👋, I'm Vishmi Bulathsinhala</h1>
 <h3 align="center">Committed IT Student | Passionately Unveiling the Future of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sahanharshajith&label=Profile%20views&color=0e75b6&style=flat" alt="sahanharshajith" /> </p>
