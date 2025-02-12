@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying *at university of Moratuwa.*
 
-- 📫 How to reach me *sahanharshajith02@gmail.com*
+- 📫 How to reach me *vishmibulathsinhala@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
