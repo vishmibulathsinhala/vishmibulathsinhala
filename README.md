@@ -12,5 +12,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishmi-bulathsinhala-476b4826b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishmibulathsinhala" height="30" width="40" /></a>
-<a href="https://instagram.com/sahan_harshajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishmibulathsinhala" height="30" width="40" /></a>
+<a href="https://instagram.com/_vish_.00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishmibulathsinhala" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/vishmibulathsin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishmibulathsinhala" height="30" width="40" /></a>
